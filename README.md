@@ -1,2 +1,2 @@
-# Profile_Management_App
-Profile Management app using Android Studio (JAVA) | RestApi |Python | Flask | MongoDB  
+# Profile Management App
+## This is an Android app for managing user profiles, built with Java, Retrofit, Flask, Python, MongoDB, and FirebaseDatabase.
