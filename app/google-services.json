@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "679800540429",
+    "project_id": "restapi-flask-retrofit",
+    "storage_bucket": "restapi-flask-retrofit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679800540429:android:bbaf0d9bfa64be181b3444",
+        "android_client_info": {
+          "package_name": "com.example.retrofit_networking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679800540429-f0qu337p2lp8giqfc5j21l3i3tvklo50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retrofit_networking",
+            "certificate_hash": "9cf7628ff33d10e489fda5dc7fb3a3a32cfd77e6"
+          }
+        },
+        {
+          "client_id": "679800540429-os41i452q1i9k75nqso47ko0qtlpba29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvtAr2B-sGFcN8Je4WRLNXrNuPpF8PtgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679800540429-os41i452q1i9k75nqso47ko0qtlpba29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

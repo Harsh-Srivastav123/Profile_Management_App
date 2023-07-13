@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="30dp"
+    android:layout_gravity="center"
+    app:cardCornerRadius="20dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center|start"
+            android:layout_height="80dp"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:drawablePadding="10dp"
+            android:text="Update"
+            android:drawableRight="@drawable/baseline_update_24"
+            android:id="@+id/update"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:src="#444242"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_height="80dp"
+            android:textColor="@color/black"
+            android:text="Delete"
+            android:textSize="20dp"
+            android:drawableRight="@drawable/baseline_delete_24"
+            android:drawablePadding="10dp"
+            android:textStyle="bold"
+            android:id="@+id/delete"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:src="#444242"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_height="80dp"
+            android:textColor="@color/black"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/baseline_bookmark_24"
+            android:text="Add Tag"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:id="@+id/tag"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
